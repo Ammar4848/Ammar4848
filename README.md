@@ -1,3 +1,9 @@
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+	<img alt="ammar2123's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <h1 align="center">Hi 👋, I'm Ammar Nagarji</h1>
 <h3 align="center">Competitive Programmer | Developer</h3>
 <img  alt="Coding" width="500" src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif">
